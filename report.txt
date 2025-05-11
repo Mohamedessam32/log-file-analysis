@@ -1,0 +1,56 @@
+===== Request Counts =====
+Total requests:
+10
+GET requests:
+7
+POST requests:
+3
+
+===== Unique IP Addresses =====
+Total unique IPs:
+6
+GET and POST per IP:
+      3 192.168.1.1 GET
+      2 192.168.1.3 GET
+      2 192.168.1.2 POST
+      1 192.168.1.6 GET
+      1 192.168.1.5 POST
+      1 192.168.1.4 GET
+
+===== Failure Requests =====
+Failed requests: 4
+Failure percentage: 40.00%
+
+===== Most Active IP =====
+      3 192.168.1.1
+
+===== Daily Request Averages =====
+Average per day: 5.00
+
+===== Days with Most Failures =====
+      2 11/May/2025
+      2 10/May/2025
+
+===== Requests Per Hour =====
+      1 11
+      1 12
+      1 13
+      2 09
+      5 10
+
+===== Status Code Breakdown =====
+      6 200
+      2 404
+      1 500
+      1 403
+
+===== Most Active IP by Method =====
+Top GET IP:
+      3 192.168.1.1
+Top POST IP:
+      2 192.168.1.2
+
+===== Failure Patterns by Hour =====
+      1 12
+      1 13
+      2 10
